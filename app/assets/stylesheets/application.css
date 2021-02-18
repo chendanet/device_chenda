@@ -13,14 +13,6 @@
  *= require_tree .
  *= require_self
  */
- .navbar-toggler-icon {
-    background-color: greenyellow;
-}
-
- .nav-link {
-    color: yellow;
-}
-
 
   body {
     background-color: #66ACAE;
